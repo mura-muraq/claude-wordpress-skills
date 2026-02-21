@@ -1,0 +1,26 @@
+# Development files
+CLAUDE.md
+.env.sample
+.claude/
+test/
+
+# macOS
+.DS_Store
+
+# OS generated files
+Thumbs.db
+
+# Thumbnails
+._*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Environment variables
+.env
+.envrc
