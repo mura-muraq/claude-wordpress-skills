@@ -1,11 +1,11 @@
 {
     "name": "wp-jwt-rest-api",
     "description": "Calling the WordPress REST API with JWT authentication",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "MuRa",
         "email": "mura@muraq.com",
-        "url": "https://github.com/mura-muraq"
+        "url": "https://github.com/mura-codes"
     },
     "license": "MIT"
 }
