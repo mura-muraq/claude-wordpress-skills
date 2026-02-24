@@ -18,7 +18,7 @@ claude
 **2. Add the marketplace**
 
 ```
-/plugin marketplace add mura-muraq/claude-wordpress-skills
+/plugin marketplace add mura-codes/claude-wordpress-skills
 ```
 
 **3. Install plugins**

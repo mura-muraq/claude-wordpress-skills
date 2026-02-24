@@ -2,7 +2,7 @@
     "name": "mura-wordpress",
     "metadata": {
         "description": "Claude Code plugins and skills for WordPress by MuRa. Including skills for calling the WordPress REST API with JWT authentication.",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "owner": {
         "name": "MuRa",
@@ -12,11 +12,11 @@
         {
             "name": "wp-jwt-rest-api",
             "description": "Calling the WordPress REST API with JWT authentication",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "author": {
                 "name": "MuRa",
                 "email": "mura@muraq.com",
-                "url": "https://github.com/mura-muraq"
+                "url": "https://github.com/mura-codes"
             },
             "license": "MIT",
             "source": "./plugins/wp-jwt-rest-api",
